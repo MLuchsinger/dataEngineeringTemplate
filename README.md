@@ -11,6 +11,8 @@ This is a high level description of the project, what it is trying to accomplish
 ## Architecture
 JUST A TEST OF ERASER:   [﻿View on canvas](https://app.eraser.io/workspace/ofZrM5Kb041j525FhsgV?elements=jttGpJiA1YLLLlW8g0Zu2A) 
 
+![Figure 1](/.eraser/ofZrM5Kb041j525FhsgV___Z2yu6s6MMqe32UJhEQeFSK8xCtn1___---figure---1NsDYYk8vBIG840uRpzvb---figure---5PCVdDF1_5zpvysJCVC1ig.png "Figure 1")
+
 This is a high level description of the tool(s) and decisions around why those tool(s) were choosen.
 
 ## Testing
